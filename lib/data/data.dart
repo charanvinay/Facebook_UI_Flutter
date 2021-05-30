@@ -3,7 +3,7 @@ import 'package:fb_clone/models/models.dart';
 final User currentUser = User(
   name: 'Charan vinay',
   imageUrl:
-      'https://instagram.fblr4-3.fna.fbcdn.net/v/t51.2885-15/e35/116897167_3263082207122613_8995047856909579156_n.jpg?tp=1&_nc_ht=instagram.fblr4-3.fna.fbcdn.net&_nc_cat=109&_nc_ohc=JzltvIoLRw0AX-JqDHC&edm=AGenrX8BAAAA&ccb=7-4&oh=0d3a54587c1dd37ce2e4fe4d39f976a5&oe=60B9EB5E&_nc_sid=5eceaa',
+      'https://scontent.fhyd11-1.fna.fbcdn.net/v/t1.18169-9/27540591_541374982927941_5190259043180886070_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=174925&_nc_ohc=hhJNHG9kRZoAX-1cRs-&_nc_oc=AQn-iwRdnvvD23FFRJw4Kya9RPQc2WvhJnydIThdfYp_mTEQ5nJkIjOD39HPwpPtym1USRc7G70nWSv-_fviBhYA&_nc_ht=scontent.fhyd11-1.fna&oh=501ea1ada1e1880d1a950c3cf30d6040&oe=60D8F9FF',
 );
 
 final List<User> onlineUsers = [
@@ -170,7 +170,7 @@ final List<Post> posts = [
     caption: 'Check out these beautiful bunch of flowers',
     timeAgo: '58m',
     imageUrl:
-        'https://instagram.fhyd14-2.fna.fbcdn.net/v/t51.2885-15/e35/74535439_186686662378265_8881401154975634032_n.jpg?tp=1&_nc_ht=instagram.fhyd14-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=gSw19uaQ5F0AX8VB8kG&edm=AGenrX8BAAAA&ccb=7-4&oh=524c871b0efa01365c7a196203f93908&oe=60B99369&_nc_sid=5eceaa',
+        'https://images.unsplash.com/photo-1496172498290-24446aba1ad8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80',
     likes: 1202,
     comments: 184,
     shares: 96,
