@@ -167,7 +167,7 @@ final List<Story> stories = [
 final List<Post> posts = [
   Post(
     user: currentUser,
-    caption: 'One of my favourite capture',
+    caption: 'One of my favourite capture.',
     timeAgo: '58m',
     imageUrl:
         'https://images.unsplash.com/photo-1496172498290-24446aba1ad8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80',
