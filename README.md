@@ -7,5 +7,3 @@
 ## Web View
 ![3](https://github.com/charanvinay/Facebook_UI_Flutter/blob/master/assets/images/Screenshot%20(641).png)
 
-## Web View link
-https://fb-clone-flutter.netlify.app/#/
